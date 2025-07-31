@@ -23,6 +23,17 @@ A hybrid system combining semantic search and graph reasoning to identify the be
 - Warm intro path scoring and connection reasoning
 - Used by fund managers and emerging managers to source LPs and partners
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/HELIANTHES/.github/main/images/Screenshot_00.png" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/HELIANTHES/.github/main/images/Screenshot_01.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/HELIANTHES/.github/main/images/Screenshot_02.png" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/HELIANTHES/.github/main/images/Screenshot_03.png" width="400"/></td>
+  </tr>
+</table>
+
 ---
 
 ### 🧠 Intellica  
