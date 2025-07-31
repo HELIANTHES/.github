@@ -1,6 +1,6 @@
 # Hélianthès Studio
 
-*Intelligent software with intention.*
+*Code with soul. Art with intelligence*
 
 **Founder:** [Jaron Armiger](https://www.helianthes.studio/) (He/Him)  
 **Focus:** Agentic AI for Capital Markets · Multi-Agent RAG · AI Infrastructure & Creative Systems
